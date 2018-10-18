@@ -13,8 +13,7 @@
                 '<ul class="header-nav__list">'+
                     '<li class="current"><a class="smoothscroll"  href="#home" title="home">首頁</a></li>'+
                     '<li><a class="smoothscroll"  href="#about" title="about">關於創新創業團隊</a></li>'+
-                    '<li><a class="smoothscroll"  href="#services" title="services">團隊類型</a></li>'+
-                    '<li><a class="smoothscroll"  href="#works" title="works">團隊作品</a></li>'+
+                    '<li><a class="smoothscroll"  href="#team" title="team">團隊檢整</a></li>'+
                     '<li><a class="smoothscroll"  href="#contact" title="contact">團隊登錄</a></li>'+
                 '</ul>'+
                 '<p>雲科創新創意團隊平台</p>'+
